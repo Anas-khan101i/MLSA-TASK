@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/Owl.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "An Handsome Owl in the BackGround";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Blog Website of Life in Fast Nuces",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is My blog about the life of university at Fast Nuces.",
+    url: "https://github.com/AbdulRehmanGHub/skills-secure-code-game.git",
   },
   {
-    title: "Web Development for Beginners",
+    title: "How To Program in C",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This is an online session where i will teach you all how to program in C language:",
+    url: "https://github.com/AbdulRehmanGHub/Tribute-to-AQ-Khan__Web-dev-Project.git",
   },
   {
-    title: "My Resume Site",
+    title: "MY Personal Portfolio",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created My personal Portfolio using HTML , CSS And JAVASCRIPT.Lets build another one.",
+    url: "https://github.com/AbdulRehmanGHub/Simple-Calculator__Web-Dev-Project.git",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Blog All About GITHUB",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This is My Blog Which is about How to Use Github and stores ur codes in it.",
+    url: "https://github.com/AbdulRehmanGHub/myblogsite.git",
   },
 ];
 

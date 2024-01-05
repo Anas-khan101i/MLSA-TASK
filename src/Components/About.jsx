@@ -16,27 +16,27 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/Cat.png";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "Cat BackGround Beautiful and Simple";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a C/C++ Programmer having a 5 years of experice i can built each and everything im just a call away feel free to rech out.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Front End Web developer",
+  "JavaScript Expert",
+  "HTML Master",
+  "UI  testing Expert",
+  "office 365 Experty",
+  "Graphic designer Expert in Figma",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Hello Every ONe this is Ahmad ali abbas having the above experties you can hire i can work remotely for everyone.";
 
 const About = () => {
   return (
